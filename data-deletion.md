@@ -49,9 +49,9 @@ Nothing that identifies you.
 
 If you believe we hold any personal data about you, email:
 
-**{{devopsmarkaz@gmail.com}}**
+devopsmarkaz@gmail.com
 
-with the subject line **"Data deletion"**.
+with the subject line "Data deletion".
 
 Please tell us anything that would help us locate the data. Because we do not operate accounts, we may ask for more detail before we can act.
 
@@ -59,6 +59,6 @@ We will respond within **30 days**.
 
 ## Contact
 
-**{{Translita Offline Translation App}}**
-{{Pakistan}}
-{{devopsmarkaz@gmail.com}}
+Translita Offline Translator
+Pakistan
+devopsmarkaz@gmail.com
